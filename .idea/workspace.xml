@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80356fe2-11dc-4952-a2c2-1a3db96a9dd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jHGfzzlCgsPqoFzWaXAypghufj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CacheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cache.CacheMain" />
+      <module name="LRUCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CacheMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80356fe2-11dc-4952-a2c2-1a3db96a9dd2" name="Default Changelist" comment="" />
+      <created>1603453711342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603453711342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="84" width="811" height="669" key="#Project_Structure" timestamp="1603453725607">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="320" y="84" width="811" height="669" key="#Project_Structure/0.23.1440.792@0.23.1440.792" timestamp="1603453725607" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603457313724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603457313724" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603457313722">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603457313722" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603457313721">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603457313721" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603457313723">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603457313723" />
+    <state x="221" y="23" width="1024" height="792" key="SettingsEditor" timestamp="1603455808979">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="23" width="1024" height="792" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603455808979" />
+    <state x="397" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1603453715594">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="397" y="251" key="com.intellij.ide.util.TipDialog/0.23.1440.792@0.23.1440.792" timestamp="1603453715594" />
+    <state x="97" y="154" key="new project wizard" timestamp="1603455571691">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="154" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1603455571691" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603456643493">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603456643493" />
+  </component>
+</project>
